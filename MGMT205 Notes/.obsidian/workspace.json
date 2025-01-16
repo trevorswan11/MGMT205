@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "6d30972779b4657f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e16b0c38937ff63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b122a88c10a2bdf1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5a9cf760463f676",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed54863a54c3d569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9589bd2326ac9ac3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6de1993259b1f4dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e58eeb109ef2ae38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f85e64c7db3b3e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c21d9c2a93d149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6fd6da9c5d27fcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ethics"
+            }
+          },
+          {
+            "id": "117112de325282c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ethics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ethics"
+            }
+          },
+          {
+            "id": "2c33ab5731bfb441",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a42b94cfd57fc986",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ethics.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ethics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b122a88c10a2bdf1",
+  "lastOpenFiles": [
+    "Slides/Day 1 - Intro to Course - SP25.pdf",
+    "Slides",
+    "New folder",
+    "Welcome.md",
+    "Ethics.md"
+  ]
+}

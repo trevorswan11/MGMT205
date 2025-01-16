@@ -1,0 +1,3 @@
+This notice is to inform you that during the Spring 2025 semester, this course will be participating in a pilot for a new attendance tracking program. This program will utilize a smartphone application that you will download and then use to log your attendance on each day of class.
+
+Purpose of the Pilot Program: The purpose of this program is to enhance the efficiency and accuracy of attendance tracking in class. This pilot program has been approved by Case Western Reserve University and will be implemented in selected classes at the Weatherhead School of Management. Protections have been implemented to ensure that identifiable attendance data will only be accessible by CWRU faculty and staff.
