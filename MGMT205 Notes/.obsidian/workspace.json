@@ -11,10 +11,12 @@
             "id": "b122a88c10a2bdf1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Slides/Day 1 - Intro to Course - SP25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Day 1 - Intro to Course - SP25"
             }
           }
         ]
