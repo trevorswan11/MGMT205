@@ -1,7 +1,7 @@
 {
   "userAdmonitions": {
-    "def": {
-      "type": "def",
+    "definition": {
+      "type": "definition",
       "color": "44, 140, 85",
       "icon": {
         "name": "book-open",
@@ -13,8 +13,8 @@
       "noTitle": false,
       "copy": true
     },
-    "con": {
-      "type": "con",
+    "concept": {
+      "type": "concept",
       "color": "47, 62, 172",
       "icon": {
         "name": "lucide-notebook",
@@ -25,6 +25,30 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "example": {
+      "type": "example",
+      "color": "151, 95, 17",
+      "icon": {
+        "name": "pencil-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Example",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "quiz": {
+      "type": "quiz",
+      "color": "107, 41, 41",
+      "icon": {
+        "name": "lucide-hexagon",
+        "type": "obsidian"
+      },
+      "command": false,
+      "title": "Quiz",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,

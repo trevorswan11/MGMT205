@@ -63,7 +63,67 @@
       "key": "6"
     }
   ],
-  "editor:toggle-bullet-list": [
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltcheck-text": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-languagetool-plugin:ltautocheck-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "obsidian-languagetool-plugin:ltjump-to-previous-suggestion": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "obsidian-languagetool-plugin:ltjump-to-next-suggestion": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:toggle-numbered-list": [
     {
       "modifiers": [
         "Mod",
@@ -72,7 +132,7 @@
       "key": "7"
     }
   ],
-  "editor:toggle-numbered-list": [
+  "editor:toggle-bullet-list": [
     {
       "modifiers": [
         "Mod",
