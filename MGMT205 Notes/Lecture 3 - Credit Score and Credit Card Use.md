@@ -1,0 +1,7 @@
+- Equifax, Experian, TransUnion are credit reporting companies that can freeze your credit to prevent credit score issues if you experience identity theft
+- annualcreditreport.com to get a free report every 12 months from the above
+- Average Score is 714 for the FICO Scores
+- Check your report for bad things, as well as making sure all the good things are there
+- You do not need to pay interest to get a good credit score
+- You need to use credit in order to get a good credit score
+- If you ask your credit card company to lower credit score, you actually can improve your score
