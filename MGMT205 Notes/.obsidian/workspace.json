@@ -23,14 +23,12 @@
             "id": "3691b0643c8f0e84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lecture 4 - Retirement, Social Security, TVM.md",
-                "mode": "source",
-                "source": false
+                "file": "Slides/Day 4 - Social Security, Saving for Retirment and TVM - SP2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 4 - Retirement, Social Security, TVM"
+              "icon": "lucide-file-text",
+              "title": "Day 4 - Social Security, Saving for Retirment and TVM - SP2025"
             }
           }
         ],
@@ -179,8 +177,8 @@
   },
   "active": "3691b0643c8f0e84",
   "lastOpenFiles": [
-    "Slides/Day 4 - Social Security, Saving for Retirment and TVM - SP2025.pdf",
     "Lecture 4 - Retirement, Social Security, TVM.md",
+    "Slides/Day 4 - Social Security, Saving for Retirment and TVM - SP2025.pdf",
     "Slides/Day 3 - Credit Score and Credit Card Use.pdf",
     "Lecture 3 - Credit Score and Credit Card Use.md",
     "Lecture 2 - Saving, Spending, and Budgeting.md",
