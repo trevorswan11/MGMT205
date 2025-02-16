@@ -1,0 +1,2 @@
+- All earning are tax deferred, not being taxed until they are taken out of the account
+- DO NOT SET UP ACCOUNTS WITH YOUR PROFESSIONAL EMAILS, USE YOUR PERSONAL EMAIL
