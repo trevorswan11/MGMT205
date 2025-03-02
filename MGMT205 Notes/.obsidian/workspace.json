@@ -8,45 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3691b0643c8f0e84",
+            "id": "c0cbf72b4a19faa3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Slides/Day 5 - Types of Retirement Accounts - SP25.pdf"
+                "file": "Slides/Day 2 - Saving and Spending habits, Budgetin Best Practices.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Day 5 - Types of Retirement Accounts - SP25"
+              "title": "Day 2 - Saving and Spending habits, Budgetin Best Practices"
             }
           },
           {
-            "id": "c0cbf72b4a19faa3",
+            "id": "2d51199b26ed7fb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investing.md",
+                "file": "Lecture 6 & 7 -Investing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Investing"
-            }
-          },
-          {
-            "id": "9b2e426fa240cd43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Slides/Day 6 - Investing Basics - FA24.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Day 6 - Investing Basics - FA24"
+              "title": "Lecture 6 & 7 -Investing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,12 +176,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9b2e426fa240cd43",
+  "active": "c0cbf72b4a19faa3",
   "lastOpenFiles": [
-    "Investing.md",
+    "Slides/Day 7 - Investing - Part 2 SP25.pdf",
+    "Lecture 6 & 7 -Investing.md",
+    "Slides/Day 5 - Types of Retirement Accounts - SP25.pdf",
     "Slides/Day 6 - Investing Basics - FA24.pdf",
     "Slides/Day 6 - Investing Basics.pdf",
-    "Slides/Day 5 - Types of Retirement Accounts - SP25.pdf",
     "Lecture 5 - Retirement Accounts.md",
     "Slides/Day 4 - Social Security, Saving for Retirment and TVM - SP2025.pdf",
     "Lecture 4 - Retirement, Social Security, TVM.md",
@@ -209,7 +197,6 @@
     "Slides/Lecture Jan 14.pdf",
     "Untitled",
     "Slides",
-    "New folder",
     "Welcome.md"
   ]
 }
