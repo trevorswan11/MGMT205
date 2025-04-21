@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Slides/Day 11 - LIfe & Disability Insurance.pdf"
+                "file": "Slides/Day 13 - Estate Planning Slides.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Day 11 - LIfe & Disability Insurance"
+              "title": "Day 13 - Estate Planning Slides"
             }
           },
           {
@@ -191,6 +191,7 @@
   },
   "active": "51ffd962bdea147f",
   "lastOpenFiles": [
+    "Slides/Day 11 - LIfe & Disability Insurance.pdf",
     "Slides/Day 10 - Property & Casulty Insurance.pdf",
     "Slides/Day 8 - Paying Down Debt - SP25.pdf",
     "Lecture 8 - Paying Down debt.md",
@@ -211,7 +212,6 @@
     "Objectivity and Ethical Response.md",
     "Ethics.md",
     "Slides/Lecture Jan 16.pdf",
-    "Slides/Lecture Jan 14.pdf",
     "Welcome.md"
   ]
 }
